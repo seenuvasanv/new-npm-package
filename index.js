@@ -1,3 +1,7 @@
-module.exports = () => {
-    console.log('Hello Seenu!!')
+module.exports = lang => {
+    if (lang === 'es') {
+        console.log('Hello in spanish')
+    } else {
+        console.log('Hello Seenu!!')
+    }
 }

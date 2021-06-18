@@ -1,6 +1,6 @@
 {
   "name": "npm-practice-hash92",
-  "version": "1.0.5",
+  "version": "1.1.0-beta.0",
   "description": "The simple console log command",
   "main": "index.js",
   "scripts": {
