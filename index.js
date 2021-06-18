@@ -1,1 +1,3 @@
-console.log('Helo seenu')
+module.exports = () => {
+    console.log('Hello Seenu!!')
+}
